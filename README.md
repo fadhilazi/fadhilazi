@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 Detail-oriented professional with experience in project coordination, data analysis, data visualization and reporting. Proficient in using tools such as Power BI and Excel to visualize insights, monitor performance, and support decision-making. Skilled at managing large datasets, preparing structured reports, and ensuring smooth execution of programs through effective collaboration with stakeholders. Strong analytical mindset combined with organizational and communication skills to deliver accurate, timely, and impactful project support.
 
 
