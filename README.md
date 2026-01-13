@@ -1,3 +1,13 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/EN-English-blue?style=for-the-badge" />
+  </a>
+  <a href="README_ID.md">
+    <img src="https://img.shields.io/badge/ID-Indonesia-red?style=for-the-badge" />
+  </a>
+</p>
+
+
 # About Me:
 Detail-oriented professional with experience in project coordination, data analysis, data visualization and reporting. Proficient in using tools such as Power BI and Excel to visualize insights, monitor performance, and support decision-making. Skilled at managing large datasets, preparing structured reports, and ensuring smooth execution of programs through effective collaboration with stakeholders. Strong analytical mindset combined with organizational and communication skills to deliver accurate, timely, and impactful project support.
 
