@@ -11,10 +11,6 @@
 # About Me:
 Detail-oriented professional with experience in project coordination, data analysis, data visualization and reporting. Proficient in using tools such as Power BI and Excel to visualize insights, monitor performance, and support decision-making. Skilled at managing large datasets, preparing structured reports, and ensuring smooth execution of programs through effective collaboration with stakeholders. Strong analytical mindset combined with organizational and communication skills to deliver accurate, timely, and impactful project support.
 
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhil-azmi-ihsan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ihsanfadhilazmi@gmail.com)
-
 # Education:
 - **Master's degree in Informatics Engineering** at Binus University 
 - **Bachelor's degree in Information System** from Gunadarma University
@@ -26,7 +22,10 @@ Detail-oriented professional with experience in project coordination, data analy
 ![](https://nirzak-streak-stats.vercel.app/?user=fadhilazi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+## Reach Me!
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fadhil-azmi-ihsan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ihsanfadhilazmi@gmail.com)
+
 
 ---
 
