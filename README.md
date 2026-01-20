@@ -13,7 +13,11 @@ Detail-oriented professional with experience in project coordination, data analy
 - **Bachelor's degree in Information System** from Gunadarma University
 
 # Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1134A6?style=for-the-badge&logo=LookerStudio&logoColor=black) ![MS Excel](https://img.shields.io/badge/Ms_excel-0B6623?style=for-the-badge&logo=excel&logoColor=black) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-1134A6?style=for-the-badge&logo=LookerStudio&logoColor=black) 
+![MS Excel](https://img.shields.io/badge/Ms_excel-0B6623?style=for-the-badge&logo=msexcel&logoColor=black) 
+![Python](https://img.shields.io/badge/python-e5de00?style=for-the-badge&logoColor=white)
 
 ## Reach out to me!
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fadhil-azmi-ihsan/)
